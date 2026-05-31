@@ -10,3 +10,5 @@ if temp == sum:
     print(temp, "is an Armstrong number")
 else:
     print(temp, "is not an Armstrong number")
+
+    
