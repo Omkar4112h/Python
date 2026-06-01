@@ -5,3 +5,4 @@ while num > 0:
     rev = rev*10+temp
     num = num//10
 print(rev)
+
