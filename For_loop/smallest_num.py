@@ -4,3 +4,4 @@ for i in li:
     if i < smallest:
         smallest = i
 print("smallest number is:",smallest)
+
