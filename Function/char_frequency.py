@@ -7,3 +7,6 @@ def word_freq(li):
 k = word_freq(["Hello","hi"])
 print(k)
 
+
+
+
