@@ -7,3 +7,6 @@ def count_char(str,temp="",count=0):
     
 k=count_char("Omkar")
 print(k)
+
+
+
