@@ -6,5 +6,5 @@ def add_digit(n, sum=0):
     sum += digit
     return add_digit(n // 10, sum)
 
-k = add_digit(1234)
-print(k)
+p = add_digit(1234)
+print(p)
