@@ -7,7 +7,7 @@ user = {
 movies = {
     "horror": ["IT", "The Conjuring", "Evil Dead Rise"],
     "action": ["John Wick", "Mortal Kombat", "Central Intelligence"],
-    "comedy": ["QQQ", "WWW", "RRR"]
+    "comedy": ["The Hangover", "Friday", "Deadpool"]
 }
 
 username = input("Enter the username: ")
