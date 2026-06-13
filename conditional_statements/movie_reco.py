@@ -6,7 +6,7 @@ user = {
 
 movies = {
     "horror": ["AAA", "BBB", "CCC"],
-    "action": ["aaa", "bbb", "ccc"],
+    "action": ["John Wick", "Mortal Kombat", "Central Intelligence"],
     "comedy": ["QQQ", "WWW", "RRR"]
 }
 
