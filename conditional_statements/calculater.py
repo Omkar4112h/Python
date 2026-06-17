@@ -11,3 +11,6 @@ elif opetaer == "*":
     print(num1*num2)
 else:
     print(num1/num2)
+
+
+    
